@@ -1,3 +1,4 @@
+\contentsline {section}{\numberline {0}小组成员及贡献}{1}{section.0}
 \contentsline {section}{\numberline {1}实验原理与方案}{3}{section.1}
 \contentsline {subsection}{\numberline {1.1}实验目的}{3}{subsection.1.1}
 \contentsline {subsection}{\numberline {1.2}仪器用具}{3}{subsection.1.2}
@@ -6,7 +7,11 @@
 \contentsline {subsubsection}{\numberline {1.4.1}谐振腔}{4}{subsubsection.1.4.1}
 \contentsline {subsubsection}{\numberline {1.4.2}ECDL}{4}{subsubsection.1.4.2}
 \contentsline {subsubsection}{\numberline {1.4.3}如何调节}{4}{subsubsection.1.4.3}
-\contentsline {section}{\numberline {2}实验步骤与记录}{5}{section.2}
-\contentsline {subsection}{\numberline {2.1}ECDL激光器输出频率的单模实现}{5}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}实验中遇到的问题记录}{7}{subsection.2.2}
-\contentsline {section}{\numberline {3}分析与讨论}{8}{section.3}
+\contentsline {subsection}{\numberline {1.5}锂原子蒸气室}{5}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}实验前思考题}{5}{subsection.1.6}
+\contentsline {section}{\numberline {2}实验步骤与记录}{7}{section.2}
+\contentsline {subsection}{\numberline {2.1}ECDL激光器输出频率的单模实现}{7}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}锂原子多普勒吸收的探测以及波长计的校准}{9}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}测量 F-P 干涉仪的精细度以及激光线宽的测量}{10}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}实验中遇到的问题记录}{10}{subsection.2.4}
+\contentsline {section}{\numberline {3}分析与讨论}{11}{section.3}
